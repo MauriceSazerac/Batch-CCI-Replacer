@@ -1,0 +1,13 @@
+{
+    "ModName": "CCI_F_ALL_UPPER_TO_BS7_P",
+    "UassetRenamer": "F:\\Games\\Modding\\Tekken7\\UassetRenamer\\UassetRenamer.exe",
+    "CharCodes":
+        ["ANN", "ASA", "ASK", "DNC", "ELZ", "FRV", "JUL", "KNM", "KZM", "LEO", "LIL", "LTN", "MUT", "NIN", "NSD", "XIA", "ZAF"],
+    "OutfitSlots": 
+        ["UPPER"],
+    "Workspace": "F:\\Scratch\\CCI_Batch_Swapper",
+    "Source": "Source",
+    "Target": "Target",
+    "AllAssets": "F:\\Games\\Modding\\Tekken7\\Tekken-7-Extracting-Packing-Tools-master\\Extract\\All Assets",
+    "Debug": true
+}
